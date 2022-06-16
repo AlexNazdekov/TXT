@@ -1,0 +1,8 @@
+NSF
+name Alexey
+surname Nazdekov
+father_name Ivan
+age 33
+pets 0
+desired_salary 60000
+
